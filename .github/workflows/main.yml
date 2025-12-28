@@ -11,4 +11,4 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - run: chmod +x mrx
-    - run: sudo ./mrx 20.204.191.184 10394 200 64 150
+    - run: sudo ./mrx 135.235.159.34 20002 3 64 150
